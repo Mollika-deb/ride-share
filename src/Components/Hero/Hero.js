@@ -5,7 +5,7 @@ import img2 from "../../image/icons8-google-play-32.png";
 
 const Hero = () => {
     return (
-        <div className="lg:flex sm:flex-row-reverse items-center lg:gap-x-24  lg:px-32 lg:py-24  bg-slate-100">
+        <div className="lg:flex  items-center lg:gap-x-24  lg:px-32 lg:py-24  bg-slate-100">
             <div className=" w-1/2">
                 <div>
                 <p className="text-4xl font-bold mb-7 font-serif">DOWNLOAD APP, <br /> SAVE MONEY, MAKE <br /> FRIENDS!</p>
